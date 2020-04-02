@@ -2,12 +2,6 @@
 
 This is the first file being committed.
 
-## Ipsom Below
+## Website 
 
-IOIOiidbuibfcuiercb ibc ibwe icb e
-neiniocnioenc mnocnwopmneoicnwiopncon
-ncionwpncpn
-
-
-uibiubiwubcuiwi
-ncionwon
+1. Index
